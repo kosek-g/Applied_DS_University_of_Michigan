@@ -16,3 +16,5 @@ This repository contains all my assignments I had to pass in order to receive ce
     In that course I've practiced how to create suppervised machine learning models for regression and classification problems     using Scikit-Learn. 
   </ul>
 </li>
+<br>
+<b>The rest will follow.</b>
