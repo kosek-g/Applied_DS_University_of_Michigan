@@ -16,5 +16,10 @@ This repository contains all my assignments I had to pass in order to receive ce
     In that course I've practiced how to create suppervised machine learning models for regression and classification problems     using Scikit-Learn. 
   </ul>
 </li>
+<li>:bookmark_tabs: <b>Course 4. Text Mining</b>
+  <ul>
+    Here, I have been introduced to text mining and text manipulation basics using tools such as regular expressions for example.
+  </ul>
+</li>
 <br>
 <b>The rest will follow.</b>
